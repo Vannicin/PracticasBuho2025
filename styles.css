@@ -388,6 +388,6 @@ nav {
 }
 
 .image-container1 img:hover {
-    transform: scale(1.005);
+    transform: scale(1.05);
     opacity: 1;
 }
